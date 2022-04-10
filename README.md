@@ -12,7 +12,7 @@
 
 The project is called Algorithms Visualizer, aptly because it pretty much does what it says, it finds a path from a source to a destination. This project is based on graph theory.
 
-![](./public/styling/2.gif)
+![](./1.gif)
 
 ## 🤷🏼‍♂️ About This Project
 
@@ -38,7 +38,7 @@ Path finding algorithms are important because they are used in applications like
 
 If edges in your graph have weights then your graph is said to be a weighted graph, if the edges do not have weights, the graph is said to be unweighted. A weight is a numerical value attached to each individual edge. In a weighted graph relationships between nodes have a magnitude and this magnitude is important to the relationship we’re studying.
 
-![](./public/styling/1.gif)
+![](./2.gif)
 
 ## ⚡ TechStack Used
 
