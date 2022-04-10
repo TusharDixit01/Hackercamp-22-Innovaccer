@@ -1,0 +1,82 @@
+<html>
+  <head>
+    <title>Ambulance Rescue 🚑</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link id="cssTheme" rel="stylesheet" href="public/styling/cssBasic.css"/>
+    <link rel="shortcut icon" type="image/png" href="public/styling/favic.png"/>
+  </head>
+  <body>
+    <div id='navbarDiv'>
+     <nav class="navbar navbar-inverse">
+       <div class="container-fluid">
+         <div class="navbar-header">
+           <a id="refreshButton" class="navbar-brand" class="navimg" href="#">
+            <img src="./public/styling/favic2.jpg" alt="logoimage" width="30" height="30" style="border-radius: 10px;">
+          </a>
+          <a id="refreshButton" class="navbar-brand" href="#">
+            
+          </a>
+         </div>
+         <ul class="nav navbar-nav">
+           <li class="dropdown">
+             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Algorithms
+             <span class="caret"></span></a>
+             <ul class="dropdown-menu">
+               <li id='startButtonDijkstra'><a href="#">Dijkstra's Algorithm</a></li>
+               <li id='startButtonAStar2'><a href="#">A* Search</a></li>
+               <li id='startButtonGreedy'><a href="#">Greedy Best-first Search</a></li>
+               <li id='startButtonBFS'><a href="#">Breadth-first Search</a></li>
+               <li id='startButtonDFS'><a href="#">Depth-first Search</a></li>
+             </ul>
+           </li>
+           <li class="dropdown">
+             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Mazes
+             <span class="caret"></span></a>
+             <ul class="dropdown-menu">
+               <li id='startButtonCreateMazeTwo'><a href="#">Triwizard Maze</a></li>
+               <li id='startButtonCreateMazeOne'><a href="#">Random maze</a></li>
+               <li id='startStairDemonstration'><a href="#">Zig Zag Maze</a></li>
+             </ul>
+           </li>
+           <li id='startButtonClearBoard'><a href="#">Clear Board</a></li>
+           <li id='startButtonClearWalls'><a href="#">Clear Walls</a></li>
+           <li id='startButtonClearPath'><a href="#">Clear Path</a></li>
+           <li class="dropdown">
+             <a id="adjustSpeed" class="dropdown-toggle" data-toggle="dropdown" href="#">Speed: Fast
+             <span class="caret"></span></a>
+             <ul class="dropdown-menu">
+               <li id='adjustFast'><a href="#">Fast</a></li>
+               <li id='adjustAverage'><a href="#">Average</a></li>
+               <li id='adjustSlow'><a href="#">Slow</a></li>
+             </ul>
+           </li>
+           <li id='startButtonStart'><button id="actualStartButton" class="btn btn-default navbar-btn" type="button">Visualize!</button></li>
+         </ul>
+       </div>
+     </nav>
+   </div>
+    <div id='mainGrid'>
+      <div id='mainText'>
+        <ul>
+          <li>
+            <div class="start"></div>Ambulance🚑</li>
+          <li>
+            <div class="target"></div>Patient🤒</li>
+          <li>
+            <div class="unvisited"></div>Unvisited Node</li>
+          <li>
+            <div class="visited"></div>Visited Nodes</li>
+          <li>
+            <div class="shortest-path"></div>Shortest-path Node</li>
+          <li>
+            <div class="wall"></div>Wall Node</li>
+        </ul>
+      </div>
+      <div id="algorithmDescriptor">Pick an algorithm and visualize it!</div>
+      <table id='board'/>
+    </div>
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src='public/browser/bundle.js'></script>
+</html>
