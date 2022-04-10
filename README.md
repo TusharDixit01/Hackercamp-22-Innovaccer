@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajverma01/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuvrajverma01) -->
 
-# <img src="./public/styling/favic.png" alt="" width="25" height="25"/>  Algorithms Visualizer
+# <img src="./public/styling/favic2.jpg" alt="" width="25" height="25"/>  Ambulance Rescuer
 
 </div>
 
