@@ -13,7 +13,7 @@ You must have encountered the ambulance siren many times when you are stuck in t
 <br>
 <br>
 
-## 🏼‍♂️🚦 Stuck in traffic 
+## 🚦 Stuck in traffic 
 Time play a crucial role in ambulance services. A person's life is dependent on your arrival. One of the most common reasons for arriving late at the patient's house is because of being stuck in traffic. Traffic is not something that is in your control, agreed. Most people give way to the ambulance, but there are times when the ambulances get stuck in the traffic.
 
 ![](./1.gif)
