@@ -1,11 +1,4 @@
 <div align="center">
-
-<!-- ![Forks](https://img.shields.io/github/forks/yuvrajverma01/Algorithms-Visualizer?logo=GITHUB&style=for-the-badge)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=for-the-badge)](https://github.com/yuvrajverma01/Algorithms-Visualizer)
-[![Stargazers](https://img.shields.io/github/stars/yuvrajverma01/Algorithms-Visualizer?logo=github&style=for-the-badge)](https://github.com/yuvrajverma01/Algorithms-Visualizer/stargazers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajverma01/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuvrajverma01) -->
-
 # <img src="./public/styling/favic2.jpg" alt="" width="25" height="25"/>  Ambulance Rescue
 
 </div>
