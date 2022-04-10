@@ -88,7 +88,7 @@ my-app
 
 ## ❤ About Me
 
-Made with ❤ by [Yuvraj Verma.](https://www.linkedin.com/in/tushar-dixit-7927051b1/)
+Made with ❤ by [Tushar Dixit.](https://www.linkedin.com/in/tushar-dixit-7927051b1/)
 <br><br>
 <a href="mailto:tushardixit028.com">
 <img align="left" alt="Tushar's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_unread_email-512.png" />
@@ -99,10 +99,3 @@ Made with ❤ by [Yuvraj Verma.](https://www.linkedin.com/in/tushar-dixit-792705
 <a href="https://www.instagram.com/_tushardixit/">
 <img align="left" alt="Yuvraj's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_instagram-512.png" />
 </a>
-<!-- <a href="https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s">
-<img align="left" alt="Yuvraj's YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_youtube-512.png" />
-</a>
-<a href="https://twitter.com/01_barfi">
-<img align="left" alt="Yuvraj's Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_twitter-512.png" />
-</a>
- -->
