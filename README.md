@@ -16,7 +16,7 @@ The project is called Algorithms Visualizer, aptly because it pretty much does w
 
 ## 🤷🏼‍♂️ About This Project
 
-Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/#
+<!-- Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/# -->
 
 ### Currently supported algorithms are:
 
@@ -88,20 +88,21 @@ my-app
 
 ## ❤ About Me
 
-Made with ❤ by [Yuvraj Verma.](https://www.linkedin.com/in/yuvrajverma01/)
+Made with ❤ by [Yuvraj Verma.](https://www.linkedin.com/in/tushar-dixit-7927051b1/)
 <br><br>
-<a href="mailto:vermay87gmail.com">
-<img align="left" alt="Yuvraj's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_unread_email-512.png" />
+<a href="mailto:tushardixit028.com">
+<img align="left" alt="Tushar's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_unread_email-512.png" />
 </a>
-<a href="https://www.linkedin.com/in/yuvrajverma01/">
+<a href="https://www.linkedin.com/in/tushar-dixit-7927051b1/">
 <img align="left" alt="Yuvraj's LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_linkedin-512.png" />
 </a>
-<a href="https://www.instagram.com/yuvrajverma01/">
+<a href="https://www.instagram.com/_tushardixit/">
 <img align="left" alt="Yuvraj's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_instagram-512.png" />
 </a>
-<a href="https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s">
+<!-- <a href="https://www.youtube.com/watch?v=3jEZnZD6phQ&t=0s">
 <img align="left" alt="Yuvraj's YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_youtube-512.png" />
 </a>
 <a href="https://twitter.com/01_barfi">
 <img align="left" alt="Yuvraj's Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_twitter-512.png" />
 </a>
+ -->
