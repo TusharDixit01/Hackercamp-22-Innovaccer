@@ -9,7 +9,7 @@
 # <img src="./public/styling/favic2.jpg" alt="" width="25" height="25"/>  Ambulance Rescuer
 
 </div>
-
+You must have encountered the ambulance siren many times when you are stuck in the traffic. Although everyone prays for the safety of the patient within the ambulance. Most people do not even know the challenges of an ambulance trip.
 The project is called Algorithms Visualizer, aptly because it pretty much does what it says, it finds a path from a source to a destination. This project is based on graph theory.
 
 ![](./1.gif)
