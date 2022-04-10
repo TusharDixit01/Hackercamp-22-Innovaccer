@@ -9,8 +9,9 @@
 # <img src="./public/styling/favic2.jpg" alt="" width="25" height="25"/>  Ambulance Rescuer
 
 </div>
-You must have encountered the ambulance siren many times when you are stuck in the traffic. Although everyone prays for the safety of the patient within the ambulance. Most people do not even know the challenges of an ambulance trip.
-The project is called Algorithms Visualizer, aptly because it pretty much does what it says, it finds a path from a source to a destination. This project is based on graph theory.
+You must have encountered the ambulance siren many times when you are stuck in the traffic. Although everyone prays for the safety of the patient within the ambulance. Most people do not even know the challenges of an ambulance trip. This vehicle breezes through the traffic and takes a critically ill patient to the hospital on time to bring them out of danger.
+<br>
+Time play a crucial role in ambulance services. A person's life is dependent on your arrival. One of the most common reasons for arriving late at the patient's house is because of being stuck in traffic. Traffic is not something that is in your control, agreed. Most people give way to the ambulance, but there are times when the ambulances get stuck in the traffic.
 
 ![](./1.gif)
 
