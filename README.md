@@ -54,7 +54,7 @@ This section lists all the technologies that I used to built this project.
 
 1. Clone the repo
    ```sh
-   $ git clone https://github.com/yuvrajverma01/Algorithms-Visualizer.git
+   $ git clone https://github.com/TusharDixit01/Hackercamp-22-Innovaccer.git
    ```
 2. Install NPM packages
    ```sh
