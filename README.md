@@ -25,6 +25,10 @@ As traffic is continously growing, It is becoming difficult for ambulance to rea
 
 <!-- Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/# -->
 
+### What are Pathfinding Algorithms?
+
+Pathfinding algorithms are usually an attempt to solve the shortest path problem in graph theory. They try to find the best path given a starting point and ending point based on some predefined criteria.
+
 ### Currently supported algorithms are:
 
 - Dijkstra's Algorithm (Weighted)
@@ -32,10 +36,6 @@ As traffic is continously growing, It is becoming difficult for ambulance to rea
 - Greedy (Weighted)
 - Breath First Search (Unweighted)
 - Depth First Search (Unweighted)
-
-### What are Pathfinding Algorithms?
-
-Pathfinding algorithms are usually an attempt to solve the shortest path problem in graph theory. They try to find the best path given a starting point and ending point based on some predefined criteria.
 
 ### Why are they important?
 
