@@ -14,7 +14,7 @@ You must have encountered the ambulance siren many times when you are stuck in t
 Time play a crucial role in ambulance services. A person's life is dependent on your arrival. One of the most common reasons for arriving late at the patient's house is because of being stuck in traffic. Traffic is not something that is in your control, agreed. Most people give way to the ambulance, but there are times when the ambulances get stuck in the traffic.
 - [A short struggle of an Ambulance](https://www.youtube.com/clip/UgkxccN-ecjZhhgboPKmWZkgCcCSp5SGSjDV)
 
-## 🤔Solution to Problem
+## 🤔 Solution to Problem
 As traffic is continously growing, It is becoming difficult for ambulance to reach at patient optimally and from patient to nearest hospital optimally. This project is called Ambulance Rescuer because it provides the shortest path between source and destination optimally and efficiently. Lives of dying patient inside the ambulance can be decreased by using this idea as whole in the world. 
 
 ![](./1.gif)
