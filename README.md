@@ -35,6 +35,20 @@ Pathfinding algorithms are usually an attempt to solve the shortest path problem
 - Breath First Search (Unweighted)
 - Depth First Search (Unweighted)
 
+## Meet the Algorithms
+
+This application supports the following algorithms: 
+
+**Dijkstra's Algorithm** (weighted): the father of pathfinding algorithms; guarantees the shortest path
+
+**A* Search** (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
+
+**Greedy Best-first Search** (weighted): a faster, more heuristic-heavy version of A*; does not guarantee the shortest path
+
+**Breath-first Search** (unweighted): a great algorithm; guarantees the shortest path
+
+**Depth-first Search** (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
+
 ### Why are they important?
 
 Path finding algorithms are important because they are used in applications like google maps, satellite navigation systems, routing packets over the internet. The usage of pathfinding algorithms isn’t just limited to navigation systems. The overarching idea can be applied to other applications as well. The usage will become clearer as we talk about some examples and implementations of pathfinding algorithms.
