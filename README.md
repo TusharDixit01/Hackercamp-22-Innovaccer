@@ -21,7 +21,7 @@ As traffic is continously growing, It is becoming difficult for ambulance to rea
 
 ## 🤷🏼‍♂️ About This Project
 
-<!-- Access the site a Google Chrome: https://yuvrajverma01.github.io/Algorithms-Visualizer/# -->
+ Access the site a Google Chrome: https://tushardixit01.github.io/#
 
 ### What are Pathfinding Algorithms?
 
