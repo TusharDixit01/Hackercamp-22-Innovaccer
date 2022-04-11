@@ -99,8 +99,8 @@ Made with ❤ by [Tushar Dixit.](https://www.linkedin.com/in/tushar-dixit-792705
 <img align="left" alt="Tushar's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_unread_email-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/tushar-dixit-7927051b1/">
-<img align="left" alt="Yuvraj's LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_linkedin-512.png" />
+<img align="left" alt="Tushar's LinkdeIN" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_linkedin-512.png" />
 </a>
 <a href="https://www.instagram.com/_tushardixit/">
-<img align="left" alt="Yuvraj's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_instagram-512.png" />
+<img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2070/140/_instagram-512.png" />
 </a>
